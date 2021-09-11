@@ -939,3 +939,7 @@
                 ['trained_model', LinearRegression(n_jobs=-1)]]), probability_threshold=None, encoded_labels=True, raw_score=False, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
 2021-09-10 16:44:20,618:INFO:Checking exceptions
 2021-09-10 16:44:20,618:INFO:Preloading libraries
+2021-09-10 20:41:19,063:INFO:Initializing load_model()
+2021-09-10 20:41:19,063:INFO:load_model(model_name=insurance_prediction_model, platform=None, authentication=None, verbose=True)
+2021-09-11 03:08:28,574:INFO:Initializing load_model()
+2021-09-11 03:08:28,575:INFO:load_model(model_name=insurance_prediction_model, platform=None, authentication=None, verbose=True)
