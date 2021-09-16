@@ -15,3 +15,9 @@
 </p>
 
 **Note**: By the time this repo is published, the app from https://insurance-prediction.azurewebsites.net will be removed to restrict resource consumption.
+
+
+## References
+
+- https://towardsdatascience.com/deploy-machine-learning-pipeline-on-cloud-using-docker-container-bec64458dc01
+- https://towardsdatascience.com/build-and-deploy-your-first-machine-learning-web-app-e020db344a99
